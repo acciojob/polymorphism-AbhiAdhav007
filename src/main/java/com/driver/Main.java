@@ -24,7 +24,7 @@ public class Main {
         Product p = new Product();
         p.product(1,2);
         p.product(1,2,3);
-        p.product(1.1,2.2);
+        p.product(1.01,2.02);
     }
 }
 
